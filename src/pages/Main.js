@@ -48,7 +48,7 @@ const Main = () => {
                 <h1>
                   I'm a <span ref={el}></span>
                 </h1>
-                <p>Based in Canada.</p>
+                <p>Creating tech solutions to empower positive change.</p>
                 <div className="btn-bar">
                   <button className="px-btn px-btn-theme" onClick={handleDownloadPdf} >
                     View Resume

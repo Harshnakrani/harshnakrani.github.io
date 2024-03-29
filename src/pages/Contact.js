@@ -99,7 +99,7 @@ const Contact = () => {
                   </div>
                   <div className="col">
                     <h5>Location</h5>
-                    <p>Kitchener, ON, Canada</p>
+                    <p> ON, Canada</p>
                   </div>
                 </li>
                 <li>
